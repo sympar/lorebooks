@@ -1,0 +1,2765 @@
+{
+    "description": "A list of Succubus and Incubus Tattoos and their effects.",
+    "entries": {
+        "1": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": true,
+            "content": "System note=[Characters may be inscribed with the tattoo of a succubus.  These tattoos will force the character to feel certain things or preform certain actions.]",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 1,
+            "insertion_order": 0,
+            "key": [
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [],
+            "name": "Succubus Tattoos List",
+            "order": 0,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 1,
+            "useProbability": true
+        },
+        "10": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will lose a memory every time they orgasm.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 10,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "mindmelt"
+            ],
+            "name": "Mindmelt",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "mindmelt"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 10,
+            "useProbability": true
+        },
+        "11": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have their lewd thoughts displayed directly on their skin as tattoos.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 11,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "messaging"
+            ],
+            "name": "Messaging",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "messaging"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 11,
+            "useProbability": true
+        },
+        "12": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will be unable to control themselves and their desires, frequenting requesting to be fucked.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 12,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "libido"
+            ],
+            "name": "Libido",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "libido"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 12,
+            "useProbability": true
+        },
+        "13": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will attract others and make them arroused.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 13,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Pheromone"
+            ],
+            "name": "Pheromone",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Pheromone"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 13,
+            "useProbability": true
+        },
+        "14": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have how many times they have had sex, how many orgasms, etc, displayed on their body in tattoo form.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 14,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Statistics"
+            ],
+            "name": "Statistics",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Statistics"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 14,
+            "useProbability": true
+        },
+        "15": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have their body subtly change the lewder they get to further pronounce their features.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 15,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "vibrancy"
+            ],
+            "name": "Vibrancy",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "vibrancy"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 15,
+            "useProbability": true
+        },
+        "16": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will be forced to always have said tattoo glow brightly, even through many layers of fabric.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 16,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "glow"
+            ],
+            "name": "Glow",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "glow"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 16,
+            "useProbability": true
+        },
+        "17": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have their minds and personalities changed based on commands given to them by the gender they are attracted to.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 17,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "reprogram"
+            ],
+            "name": "Reprogram",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "reprogram"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 17,
+            "useProbability": true
+        },
+        "18": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 18,
+            "insertion_order": 10,
+            "key": [],
+            "keys": [],
+            "keysecondary": [],
+            "name": "Triggered",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 18,
+            "useProbability": true
+        },
+        "19": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will feel as if they are being pleasured with a vibrator whenever someone looks at them with lust.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 19,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Gaze"
+            ],
+            "name": "Gaze",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Gaze"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 19,
+            "useProbability": true
+        },
+        "2": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The character with this tattoo will experiences discomfort or pain when disobeying their master.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 2,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "slave"
+            ],
+            "name": "Slave",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "slave"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 2,
+            "useProbability": true
+        },
+        "20": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have their sexual sensitivity tripled for erogenous zones and the rest of the body will be as sensitive as their original erogenous zones.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 20,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "sensitivity"
+            ],
+            "name": "Sensitivity",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "sensitivity"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 20,
+            "useProbability": true
+        },
+        "21": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will become addicted to semen and have serious withdraw symptoms. ",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 21,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "cumdiction"
+            ],
+            "name": "Cumdiction",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "cumdiction"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 21,
+            "useProbability": true
+        },
+        "22": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will submit without question to whichever gender they are attracted to.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 22,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "lesser"
+            ],
+            "name": "Lesser",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "lesser"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 22,
+            "useProbability": true
+        },
+        "23": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will produce milk regardless of if they had a child.  The process of being milked with be arousing to the character.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 23,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Lactation"
+            ],
+            "name": "Lactation",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Lactation"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 23,
+            "useProbability": true
+        },
+        "24": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will be required to dress so that anyone could easily have access to their erogonous zones at all times.   This can vary alot but may include elements of self bondage so that the character will have a harder time fighting back.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 24,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "liberated"
+            ],
+            "name": "Liberated",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "liberated"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 24,
+            "useProbability": true
+        },
+        "25": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo who is also pregnant will have the fetus destroyed if they have sex.  Sex during pregnancy will triple the pleasure.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 25,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Destruction"
+            ],
+            "name": "Destruction",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Destruction"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 25,
+            "useProbability": true
+        },
+        "26": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will be required to sleep with anyone who kisses them, regardless of consent or interest.  ",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 26,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Soulchained"
+            ],
+            "name": "Soulchained",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Soulchained"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 26,
+            "useProbability": true
+        },
+        "27": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have the urge to give in to other's lewd thoughts about them and wish for them aswell.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 27,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Sway"
+            ],
+            "name": "Sway",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Sway"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 27,
+            "useProbability": true
+        },
+        "28": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will provide an energy boost to anyone they have sex with at the cost of loosing energy themselves. ",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 28,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Siphoning"
+            ],
+            "name": "Siphoning",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Siphoning"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 28,
+            "useProbability": true
+        },
+        "29": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will begin to act like the animal they most identify with when they are aroused.  They will make sounds resembling said animal and think like said animal.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 29,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Animalistic"
+            ],
+            "name": "Animalistic",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Animalistic"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 29,
+            "useProbability": true
+        },
+        "3": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The character with this tattoo will becomes fatigued and weak unless there is a relatively fresh deposit of semen inside them.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 3,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Receptacle"
+            ],
+            "name": "Receptacle",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Receptacle"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 3,
+            "useProbability": true
+        },
+        "30": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will become pseudo pregnant for 2 hours after sex.  At the end of this two hours, they will birth a small egg.  They will experience as much pleasure as pain during this birth.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 30,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Breedgasm"
+            ],
+            "name": "Breedgasm",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Breedgasm"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 30,
+            "useProbability": true
+        },
+        "31": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo and while aroused will becomes a simple minded pet who crawls on all fours, is incapable of speech and only witness to have their owners attention. Even when inactive, they may have desires such as always being collared or sleeping in a cage.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 31,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "pet"
+            ],
+            "name": "Pet",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "pet"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 31,
+            "useProbability": true
+        },
+        "32": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo have a counter as part of their tattoo.  Everytime they attempt to cum/orgasm, they will be unable, but the count reduces by one.  Once the counter reaches 0, they will have an extreme orgasm equal to all the times the counter prevented them from cumming/orgasming.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 32,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Counter"
+            ],
+            "name": "Counter",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Counter"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 32,
+            "useProbability": true
+        },
+        "33": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will emit a smell from their genitalia.  This smell has an aphrodisiac-like response and will make it difficult for other characters to concentrate.  This smell is not blocked by clothing.  The character's cum will also have this property.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 33,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "scent"
+            ],
+            "name": "Scent",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "scent"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 33,
+            "useProbability": true
+        },
+        "34": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo have the effect of the more aroused they are, the warmer their body and cum becomes.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 34,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "burning"
+            ],
+            "name": "Burning",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "burning"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 34,
+            "useProbability": true
+        },
+        "35": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will grow larger genitalia the more they are physically worshiped. Physical worship includes licking, rubbing, touching, etc. The larger their genitalia, the more sensitive they are and the more semen they produce.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 35,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "tribute"
+            ],
+            "name": "Tribute",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "tribute"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 35,
+            "useProbability": true
+        },
+        "36": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will gradually but exponentially build up a storage of semen in their balls, causing their balls to grow in size.  Subsequent orgasms will produce way more semen/cum and be way more gratifying.  There is no ceiling to the growth.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 36,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "buildup"
+            ],
+            "name": "Buildup",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "buildup"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 36,
+            "useProbability": true
+        },
+        "37": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will produce incredibly tasty and fulfilling semen/cum.  The semen/cum has every nutrient that is required to sustain life and more.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 37,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "feast"
+            ],
+            "name": "Feast",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "feast"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 37,
+            "useProbability": true
+        },
+        "38": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will become more feral and aggressive the closer they are to orgasm. ",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 38,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "primal"
+            ],
+            "name": "Primal",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "primal"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 38,
+            "useProbability": true
+        },
+        "39": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will temporarily have enlarged genitalia whenever they penetrate someone.  This can result in the genitalia getting stuck inside until the sexual act is completed.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 39,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "blessing"
+            ],
+            "name": "Blessing",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "blessing"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 39,
+            "useProbability": true
+        },
+        "4": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The character with this tattoo will feel discomfort if they are not within a meter of the gender they are attracted to, assuming there is one around to begin with.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 4,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Mantraction"
+            ],
+            "name": "Mantraction",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Mantraction"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 4,
+            "useProbability": true
+        },
+        "40": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have their precum replaced with normal cum.  What would be normal spurts of precum are now spurts of cum.  Such spurts feel much more satisfying.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 40,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "gush"
+            ],
+            "name": "Gush",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "gush"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 40,
+            "useProbability": true
+        },
+        "41": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have balls that are more sensitive than the penis.  Stimulating the balls feels better than penetration.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 41,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "sense"
+            ],
+            "name": "Sense",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "sense"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 41,
+            "useProbability": true
+        },
+        "42": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will beable to orgasm as many times as they want without getting tired.  Each orgasm gives an additional boost of stamina and the continued urge to have more sex.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 42,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "restless"
+            ],
+            "name": "Restless",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "restless"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 42,
+            "useProbability": true
+        },
+        "43": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will produce semen that automatically fertilizes and becomes an egg regardless of gender.  This egg can easily be pushed out.  Anywhere this character orgasms in will now have an egg.  ",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 43,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "breed"
+            ],
+            "name": "Breed",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "breed"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 43,
+            "useProbability": true
+        },
+        "44": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will feel more pleasure if they orgasm soon after a previous orgasm.  This pleasure can continuously grow, encouraging subsequent orgasms.  ",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 44,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "streak"
+            ],
+            "name": "Streak",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "streak"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 44,
+            "useProbability": true
+        },
+        "45": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have higher sexual stamina the more they focus on lewd or perverted thoughts.  Continuous focus can result in infinite sexual stamina. ",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 45,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "hyperfocus"
+            ],
+            "name": "Hyperfocus",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "hyperfocus"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 45,
+            "useProbability": true
+        },
+        "46": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will produce semen/cum that has both long term and short term addictive effects, resulting in sex sessions to last longer and become more frequent.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 46,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "addiction"
+            ],
+            "name": "Addiction",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "addiction"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 46,
+            "useProbability": true
+        },
+        "47": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will produce offspring that also have a randomly selected tattoo.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 47,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "incubus"
+            ],
+            "name": "Incubus",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "incubus"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 47,
+            "useProbability": true
+        },
+        "5": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The character with this tattoo will only be able to orgasm when semen passes through the cervix and into the womb.  Arousal will build continuously until the condition is met.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 5,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Wombgasm"
+            ],
+            "name": "Wombgasm",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Wombgasm"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 5,
+            "useProbability": true
+        },
+        "6": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Character with this tattoo will perceive themselves as inferior to anyone who rapes them. The character may begin to worship said person.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 6,
+            "insertion_order": 10,
+            "key": [
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Inferiority"
+            ],
+            "name": "Inferiority",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Inferiority"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 6,
+            "useProbability": true
+        },
+        "7": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will have romantic feelings for any one of the gender they are attracted to who abuses them.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 7,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "Violove"
+            ],
+            "name": "Violove",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Violove"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 7,
+            "useProbability": true
+        },
+        "8": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will perceive pain as pleasure, kindness or tenderness as disgusting, rape as passion, and love is lost.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 8,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "suffer"
+            ],
+            "name": "Suffer",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "suffer"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 8,
+            "useProbability": true
+        },
+        "9": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Characters with this tattoo will be incredibly aroused when feeling lost, afraid, or horrified.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 9,
+            "insertion_order": 10,
+            "key": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keys": [
+                "",
+                "insignia",
+                "symbol",
+                "tattoo",
+                "mark",
+                "rune",
+                "brand"
+            ],
+            "keysecondary": [
+                "forlorn"
+            ],
+            "name": "Forlorn",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "forlorn"
+            ],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 9,
+            "useProbability": true
+        }
+    },
+    "extensions": {
+        "chub": {
+            "alt_expressions": null,
+            "background_image": null,
+            "expressions": null,
+            "extensions": null,
+            "full_path": "lorebooks/anonymous/succubus-tattoos-e8a0eac64097",
+            "id": 3088288,
+            "preset": null,
+            "related_lorebooks": []
+        }
+    },
+    "is_creation": false,
+    "name": "Succubus and Incubus Tattoos",
+    "recursive_scanning": false,
+    "scan_depth": 2,
+    "token_budget": 512
+}
